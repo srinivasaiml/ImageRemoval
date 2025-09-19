@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react'
-import { Upload, Download, Loader2, Image as ImageIcon } from 'lucide-react'
+import { Upload, Download, Loader2, Image as ImageIcon, Scissors } from 'lucide-react'
 import axios from 'axios'
 
 const ImageUploader = () => {
